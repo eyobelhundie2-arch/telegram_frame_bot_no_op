@@ -1,0 +1,18 @@
+{
+  "output_size": [
+    1080,
+    1080
+  ],
+  "circle": {
+    "center_x": 196,
+    "center_y": 514,
+    "radius": 399
+  },
+  "face_target": {
+    "center_x": 235,
+    "center_y": 315,
+    "width": 210
+  },
+  "fallback_focus_y": 0.38,
+  "mask_blur": 0.6
+}
